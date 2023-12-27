@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
-
 - 📫 How to reach me **monikasharma86288@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
